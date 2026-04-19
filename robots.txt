@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oficinabarbosalima.com.br/sitemap.xml
