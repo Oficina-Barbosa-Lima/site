@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://oficinabarbosalima.com.br/sitemap.xml
+
+# Markdown version available for agents (RFC 8288 content negotiation)
+# Accept: text/markdown → https://oficinabarbosalima.com.br/index.md
